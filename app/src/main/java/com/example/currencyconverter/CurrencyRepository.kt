@@ -1,7 +1,4 @@
 package com.example.currencyconverter
-
-import ExchangeRatesResponse
-
 //
 class CurrencyRepository {
     suspend fun getRates(base: String): ExchangeRatesResponse? {
