@@ -1,0 +1,15 @@
+[33m0e7d703[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{0}: checkout: moving from main to 0e7d703
+[33me5339cc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Função-Main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33me5339cc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Função-Main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from 0e7d7035ce0454414ff91a09b639a9933c3cb3d1 to main
+[33m0e7d703[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{3}: checkout: moving from main to 0e7d703
+[33me5339cc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Função-Main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{4}: checkout: moving from Função-Main to main
+[33mf5c0484[m[33m ([m[1;32mFunção-Main[m[33m)[m HEAD@{5}: checkout: moving from 0e7d7035ce0454414ff91a09b639a9933c3cb3d1 to Função-Main
+[33m0e7d703[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{6}: checkout: moving from Função-Main to 0e7d703
+[33mf5c0484[m[33m ([m[1;32mFunção-Main[m[33m)[m HEAD@{7}: commit: Adicionando arquivos de configuração do projeto
+[33me5339cc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Função-Main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{8}: checkout: moving from main to Função-Main
+[33me5339cc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Função-Main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{9}: checkout: moving from master to main
+[33m0e7d703[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{10}: commit: Criado a interface da Currency API, ExchangeRatesResponse
+[33m06cd797[m HEAD@{11}: commit: feito a logica do currencyViewModelFactory
+[33m5561da6[m HEAD@{12}: commit: Adicionando funções na main activity e classes base criadas
+[33m036657b[m HEAD@{13}: commit: main activity desenvolvida, criação de classes (currencyViewModelFactory, CurrencyRepository, CurrencyViewModel)
+[33mea9b68f[m HEAD@{14}: commit (initial): Inicio do projeto (Dependencias basicas inseridas, como retrofit, gson, estruturas do mvm, coroutines.)
