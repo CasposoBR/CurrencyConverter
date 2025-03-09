@@ -5,6 +5,11 @@
       <config />
     </shared>
     <layouts>
+      <layout url="file://$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.CurrencyConverter</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml">
         <config>
           <theme>@style/Theme.CurrencyConverter</theme>
@@ -17,15 +22,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eec6dcc-8593-49c1-9d66-5c39a4f3acee" name="Changes" comment="d">
+      <change afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter/CurrencyConverter" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/CurrencyApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/CurrencyApi.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/ExchangeRatesResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/ExchangeRatesResponse.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/RetrofitInstance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/RetrofitInstance.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyRepository.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +139,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Android App.MainActivity.executor": "Debug",
     "Android App.app.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -131,8 +150,8 @@
     "com.google.services.firebase.aqiPopupShown": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/CurrencyConverter/CurrencyConverter/settings.gradle.kts",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "D:/CurrencyConverter",
+    "project.structure.last.edited": "Build Variants",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
@@ -148,7 +167,73 @@
       <recent name="D:\CurrencyConverter\app" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android App.MainActivity">
+    <configuration name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Currency_Converter.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.example.currencyconverter.MainActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Currency_Converter.app.main" />
       <option name="DEPLOY" value="true" />
@@ -215,6 +300,11 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android App.MainActivity" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
