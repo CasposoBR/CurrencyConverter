@@ -12,7 +12,7 @@
       </layout>
       <layout url="file://$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml">
         <config>
-          <theme>@style/Theme.CurrencyConverter</theme>
+          <theme>@style/Theme.AppCompat.Light</theme>
         </config>
       </layout>
     </layouts>
@@ -22,18 +22,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eec6dcc-8593-49c1-9d66-5c39a4f3acee" name="Changes" comment="d">
-      <change afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter/CurrencyConverter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/CurrencyApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/CurrencyApi.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/ExchangeRatesResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/ExchangeRatesResponse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/RetrofitInstance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/RetrofitInstance.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +85,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$" value="63f6156773b837ec16f51ae5e590210fc2fedae6" />
         <entry key="$PROJECT_DIR$/CurrencyConverter" value="master" />
       </map>
     </option>
@@ -292,6 +285,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android App.MainActivity" />
         <item itemvalue="Android App.MainActivity" />
       </list>
     </recent_temporary>
