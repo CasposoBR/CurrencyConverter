@@ -5,11 +5,6 @@
       <config />
     </shared>
     <layouts>
-      <layout url="file://$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activity_main.xml">
-        <config>
-          <theme>@style/Theme.AppCompat.Light</theme>
-        </config>
-      </layout>
       <layout url="file://$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml">
         <config>
           <theme>@style/Theme.AppCompat.Light</theme>
@@ -23,8 +18,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7eec6dcc-8593-49c1-9d66-5c39a4f3acee" name="Changes" comment="d">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/CurrencyApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/CurrencyApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/RetrofitInstance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/RetrofitInstance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyViewModel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
