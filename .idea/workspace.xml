@@ -24,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/CurrencyApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/CurrencyApi.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/RetrofitInstance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/RetrofitInstance.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/CurrencyViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/java/com/example/currencyconverter/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter/app/src/main/res/layout/activitymain.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
